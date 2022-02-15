@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Eyepetizer/app/src/main/res/drawable/sel_btn_home_page.xml" value="0.37864583333333335" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_about.xml" value="0.33" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_main2.xml" value="0.1962962962962963" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_new_detail.xml" value="0.2388888888888889" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_open_source_projects.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_setting.xml" value="0.25277777777777777" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_splash.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_ugc_detail.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/activity_web_view.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/dialog_appraise_tips.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_blank.xml" value="0.1962962962962963" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_dashboard.xml" value="0.1175925925925926" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_main_container.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_mine.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_notification_login_tips.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_refresh_layout.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_search.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/fragment_share_dialog.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_auto_play_video_ad.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_banner_item_type.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_banner_three_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_banner_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_brief_card_tag_brief_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_brief_card_topic_brief_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_column_card_list_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_column_card_list_type_item.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_community_auto_play_follow_card_follow_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_community_columns_card_follow_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_community_follow_header_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_community_horizontal_scroll_card_itemcollection_item_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_community_horizontal_scrollcard_item_collection_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_community_horizontal_scrollcard_type.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_follow_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_horizontal_scroll_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_information_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_information_card_type_item.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_new_detail_custom_header_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_new_detail_reply_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_notification_push.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_open_source_project.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_search.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_search_header.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_special_square_card_collection_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_special_square_card_collection_type_item.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_text_card_type_footer_three.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_text_card_type_footer_two.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_text_card_type_header_eight.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_text_card_type_header_five.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_text_card_type_header_four.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_text_card_type_header_seven.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_ugc_detail.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_ugc_selected_card_collection_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/item_video_small_card_type.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_auto_play_video_player.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_bottom_navigation_bar.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_load_error_view.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_loading.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_main_container.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_main_page_title_bar.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_new_detail_video_player.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_srl_classics_footer.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_title__bar.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_title_bar.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_ugc_detail_video_player.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/layout_view_stub_holder.xml" value="0.24166666666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/layout/test.xml" value="0.20260416666666667" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14629629629629629" />
+        <entry key="..\:/Eyepetizer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.37864583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

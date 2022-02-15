@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.eye.ui.home.HomePageFragment"
+        tools:layout="@layout/layout_main_container" />
+
+    <fragment
+        android:id="@+id/navigation_community"
+        android:name="com.example.eye.ui.community.CommunityFragment"
+        tools:layout="@layout/fragment_main_container" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.eye.ui.notification.NotificationFragment"
+        tools:layout="@layout/fragment_main_container" />
+
+    <fragment
+        android:id="@+id/navigation_mine"
+        android:name="com.example.eye.ui.mine.MineFragment"
+        tools:layout="@layout/fragment_mine" />
+</navigation>
